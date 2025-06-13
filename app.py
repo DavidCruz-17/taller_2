@@ -240,6 +240,8 @@ def update_output_div(date, hour, proy):
         plot = plot_series(data, initial_date, int(proy))
         return plot
 
+print("Cambio de prueba para Github")
+
 
 # Run the server
 if __name__ == "__main__":
